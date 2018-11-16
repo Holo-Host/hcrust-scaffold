@@ -7,7 +7,7 @@ import withStyles from "@material-ui/core/styles/withStyles";
 import Button from "../CustomButtons/Button.jsx";
 // styles
 import Card from "../Card/Card.jsx";
-import CardAvatar from "components/Card/CardAvatar.jsx";
+import CardAvatar from "../Card/CardAvatar.jsx";
 import holochainLogo from "../../assets/img/holochain-logo-lg.png";
 import wizardStyle from "../../assets/jss/material-dashboard-pro-react/components/wizardStyle.jsx";
 
